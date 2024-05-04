@@ -1,7 +1,7 @@
 # Environment Setup
 
 ## Steps
-### Setup CS_298_Proj folder
+### Setup CS_598_Proj folder
  1) In your Google Drive, "My Drive" folder, check if you have a "Colab Notebooks" folder.
  2) If not, create a folder named "Colab Notebooks"
  3) Then, create a shortcut to the CS_598_Proj folder in your "Colab Notebooks" folder on Google Drive

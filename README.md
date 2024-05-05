@@ -1,5 +1,12 @@
 # Environment Setup
 
+**Note**: In order to run the code in these notebooks, you need to use a runtime backend with a large amount of RAM. 
+- In google colab, these are the A100 GPU, L4 GPU, and the TPU v2. 
+- In the free version of google colab, you should be able to access a TPU v2. 
+- On the colab notebook, click Runtime in the top menu bar and select change Runtime Type.
+- Then, select TPU v2.
+- If you are unable to use these in the free version, you need to upgrade colab to a paid tier, and then run using those compute units.
+
 ## Steps
 ### Setup CS_598_Proj folder
  1) In your Google Drive, "My Drive" folder, check if you have a "Colab Notebooks" folder.

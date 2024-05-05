@@ -6,6 +6,7 @@
 - On the colab notebook, click Runtime in the top menu bar and select change Runtime Type.
 - Then, select TPU v2.
 - If you are unable to use these in the free version, you need to upgrade colab to a paid tier, and then run using those compute units.
+- Link to google colab paid tier: https://colab.research.google.com/signup/pricing
 
 ## Steps
 ### Setup CS_598_Proj folder
